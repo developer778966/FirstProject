@@ -16,7 +16,7 @@ public class A {
         System.out.print("static");
     }
     {
-        System.out.print("A1");
+        System.out.print("A1.0");
     }
 }
 class B extends A{
