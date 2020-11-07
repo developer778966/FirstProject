@@ -17,6 +17,7 @@ public class A {
     }
     {
         System.out.print("A1.0");
+        System.out.print("A2");
     }
 }
 class B extends A{
